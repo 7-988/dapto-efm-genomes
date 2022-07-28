@@ -12,7 +12,7 @@ candidate_gene_length.R - repeating regressions to adjust number of variants per
 
 just sig genes.R - repeating variant analyses 
 
-phylogenetic_clusteringA.R - clustering of clade A isolates, to adjust for population structure (script adapted from https://github.com/francesccoll/phylogenetic_clustering)
+phylogenetic_clustering - Clade A.R - clustering of clade A isolates, to adjust for population structure (script adapted from https://github.com/francesccoll/phylogenetic_clustering)
 
-phylogenetic_clusteringB.R - clustering of clade B isolates, to adjust for population structure 
+phylogenetic_clustering - Clade B.R - clustering of clade B isolates, to adjust for population structure 
 
