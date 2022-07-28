@@ -6,7 +6,7 @@ Code for project characterising the genetic basis of daptomycin resistance in En
 
 This repository contains the following files for the candidate gene analysis:
 
-known_variants_analysis.R - main script for candidate gene regression analysis
+encoding_known_variants_analysis.R - main script for candidate gene regression analysis
 
 candidate_gene_length.R - repeating regressions to adjust number of variants per gene for gene length
 
