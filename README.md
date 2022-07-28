@@ -16,3 +16,6 @@ phylogenetic_clustering - Clade A.R - clustering of clade A isolates, to adjust 
 
 phylogenetic_clustering - Clade B.R - clustering of clade B isolates, to adjust for population structure 
 
+It also contains:
+
+Code for visualising metadata on a phylogenetic tree.
