@@ -18,6 +18,9 @@ phylogenetic_clustering - Clade B.R - clustering of clade B isolates, to adjust 
 
 It also contains:
 
+Word document containing commands used in Pyseer.
+
 Code for visualising metadata on a phylogenetic tree.
 
-Word document containing commands used in Pyseer.
+Code for visualising effect sizes and allele frequencies of significant variants from Pyseer.
+
